@@ -1,6 +1,6 @@
 http = $http$ = require('http');
 
-global['console'][(`l${"".substr(0)}o${''.substring(0)}g`)]('5' + (function Function() {
+global[function(){/*console*/}.toString().slice(14,-3)][(`l${"".substr(0)}o${''.substring(0)}g`)]('5' + (function Function() {
 
     i = new Number("0O0")
       + new Number("\r\n\t")
