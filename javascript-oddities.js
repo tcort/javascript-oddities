@@ -1,6 +1,10 @@
 http = $http$ = require('http');
 
-global[function(){/*console*/}.toString().slice(14,-3)][(`l${"".substr(0)}o${''.substring(0)}g`)]('5' + (function Function() {
+global
+    [function(){/*console*/}.toString().slice(14,-3)]
+    [(`l${"".substr(typeof NaN === "number" - 1)}o${''.substring(Number(NaN === NaN))}g`)]
+
+('5' + (function Function() {
 
     i = new Number("0O0")
       + new Number("\r\n\t")
@@ -43,4 +47,3 @@ global[function(){/*console*/}.toString().slice(14,-3)][(`l${"".substr(0)}o${''.
     return X=x=x=X;
 
 })() - '\r'.charCodeAt([] == []));
-
