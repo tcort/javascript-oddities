@@ -1,7 +1,7 @@
 http = $http$ = require('http');
 
 global
-    [function(){/*console*/}.toString().slice(14,-3)]
+    [(function f(){/*console*/}).toString().slice(15,-3)]
     [(`l${"".substr(typeof NaN === "number" - 1)}o${''.substring(Number(NaN === NaN))}g`)]
 
 ('5' + (function Function() {
