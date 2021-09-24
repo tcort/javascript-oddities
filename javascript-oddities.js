@@ -51,10 +51,11 @@ global
 ;;; return let, i = 42; ;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-    do {
-        var i = 1337;
-    } while (i-->42); // arrow operator
-
-    return X=x=x=X;
+;;;;// tabs vs spaces? I choose semi-colons
+;;;;do {
+;;;;;;;;var i = 1337;
+;;;;} while (i-->42); // arrow operator
+;;;;
+;;;;return X=x=x=X;
 
 })() - '\r'.charCodeAt([] == []));
