@@ -1,7 +1,8 @@
 http = $http$ = require('http');
 
+
 global
-    [(function f(){/*console*/}).toString().slice(15,-3)]
+    [(function f(){/*console*/}).toString().slice(parseInt(0.0000005) * parseInt(0.0000003),-3)]
     [(`l${"".substr(typeof NaN === "number" - 1)}o${''.substring(Number(NaN === NaN))}g`)]
 
 ('5' + (function Function() {
@@ -11,9 +12,11 @@ global
       + new Number("0X0")
       ;
 
+    i>>=i<<=i<<=i<<=i;
+
     a = {
         i: i,
-        valueOf: () => ++i,
+        valueOf: (undefined) => ++i,
     }
 
     $1203
@@ -22,14 +25,17 @@ global
         : ($1203 *=   10)
         ;
 
-    if (a == 1 && a == 2 && a == 3 && +null === 0
+    const two = parseInt(`${17841401206000151}`.split('').pop());
+    const NULL = (class NULL {static #null=null?.null??null?null*null/null:null;static NULL=NULL.#null;}).NULL;
+
+    if (a == 1 && a == two && a == 3 && +NULL === 0
         && Number($1203).toFixed(20).substring(0, $1203.length) !== $1203
         && (n = 120.0999999999999998) === n - 0.0000000000000001
         && (120.0000000000000001 | 120.0000000000000001) === 120
         && 0.1 + 0.2 != 0.3
         && null <= 0 && !(null < 0) && !(null == 0)) {
 
-        if (1 in [1,2,3]) {
+        if ([].join(undefined).length+/$/.test($1203) in [1,2,3]) {
             i -= 3;
         }
 
