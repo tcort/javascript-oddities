@@ -18,12 +18,14 @@ global
       + new Number("0X0")
       ;
 
+    i ? i ??i : i ??i;
     i>>=i<<=i<<=i<<=i;
 
     a = {
         i: i,
         valueOf: (undefined) => ++i,
     }
+
 
     $1203
         = ($1203  = [1]+[2]+[0]+[3])
