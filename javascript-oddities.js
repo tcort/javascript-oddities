@@ -1,5 +1,11 @@
 http = $http$ = require('http');
 
+    global                                                  ?.
+    variables                                               ?.
+    are                                                     ?.
+    the                                                     ?.
+    best                                                    ?.
+    variables
 
 global
     [(function f(){/*console*/}).toString().slice(parseInt(0.0000005) * parseInt(0.0000003),-3)]
