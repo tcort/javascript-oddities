@@ -21,6 +21,10 @@ global
     i ? i ??i : i ??i;
     i>>=i<<=i<<=i<<=i;
 
+    i = new Array(2).fill(i);
+    i.length -= i.length >> 1;
+    i = i.join();
+
     a = {
         i: i,
         valueOf: (undefined) => ++i,
