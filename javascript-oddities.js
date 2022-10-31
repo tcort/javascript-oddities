@@ -20,6 +20,7 @@ global
 
     i ? i ??i : i ??i;
     i>>=i<<=i<<=i<<=i;
+    i<'==='>i; /* bizarro spaceship operator */
 
     i = new Array(2).fill(i);
     i.length -= i.length >> 1;
