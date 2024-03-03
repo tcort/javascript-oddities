@@ -26,11 +26,10 @@ global
     i.length -= i.length >> 1;
     i = i.join();
 
-    a = {
+    if (i++,i--) a = {
         i: i,
         valueOf: (undefined) => ++i,
     }
-
 
     $1203
         = ($1203  = [1]+[2]+[0]+[3])
@@ -59,15 +58,17 @@ global
         }
     }
 
-/**//**//**//**//**//**//**//**//**/
-/**/ https://www.w3schools.com/ /**/
-/**//**//**//**//**//**//**//**//**/
-
-    for (var let = i++ + ++i; [] == ![] && +[] == -[] ; let += true) {
-        if (0) let; else switch (let) {
-            case Array.apply(null, (a,b,c) => {}) . length : break;
-            default: continue https;//www.w3schools.com/
-            case 4: try { return let; } finally { return let + 1; };
+    try { to_ride_a_bike } catch (ball) {
+        /**//**//**//**//**//**//**//**//**/
+        /**/ https://www.w3schools.com/ /**/
+        /**//**//**//**//**//**//**//**//**/
+        for (var let = i++ + ++i; [] == ![] && +[] == -[] ; let += true) {
+            if (0) let; else switch (let) {
+                case ball: process.exit(-i);
+                case Array.apply(null, (a,b,c) => {}) . length : break;
+                default: continue https;//www.w3schools.com/
+                case 4: try { return let; } finally { return let + 1; };
+            }
         }
     }
 
